@@ -1,0 +1,33 @@
+body{
+  background-color: #aac2cf;
+  font-size: 62,5%;
+}
+
+div{
+  background-color: #a29bcf;
+  margin: 0px auto;
+  width: 64%;
+  padding: 3%;
+}
+
+h1{
+  background-color: #b9ada8;
+  margin: 0px auto;
+  width: 80%;
+  font-size: 3rem;
+}
+
+p{
+  background-color: #b8b9b0;
+  margin: auto;
+  font-style: normal;
+  font-size: 1rem;
+  font-family: Verdana, Arial, sans-serif;
+  font-weight: lighter;
+  font-style: normal;
+  text-align: center;
+  text-indent: 2rem;
+  letter-spacing: 1.1px;
+  line-height: 1.5rem;
+
+}
