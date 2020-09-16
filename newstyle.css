@@ -1,0 +1,11 @@
+@import url("style.css");
+
+div{
+  background-color: brown;
+  float: left;
+  margin: 20px 20px;
+}
+
+.one{
+  background-color: yellow;
+}

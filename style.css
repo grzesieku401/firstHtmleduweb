@@ -3,7 +3,6 @@ p{
   background-color: red;
   width: 300px;
 }
-
 .first{
   background-color: magenta;
   color: #389e17;
@@ -20,6 +19,6 @@ div{
   height: 200px;
 }
 
-p #second{
-  background-color: green;
+p#second{
+  background-color: purple;
 }
