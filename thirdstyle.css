@@ -1,0 +1,13 @@
+@@font-face {
+  font-family: 'Myfont';
+  src: url('AftaSansThin-Regular.ttf');
+}
+
+html{
+  font-size: 62,5%;
+  font-family: Myfont;
+}
+
+h1{
+  font-size: 2rem;
+}
