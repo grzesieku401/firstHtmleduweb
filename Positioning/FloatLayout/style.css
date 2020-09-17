@@ -1,0 +1,25 @@
+div{
+  width: 500px;
+  margin: 0 auto;
+}
+header{
+  background-color: #C2FF9E;
+  height: 200px;
+}
+section{
+  background-color: #FFA684;
+  height: 600px;
+  width: 60%;
+  float: left;
+}
+aside{
+  background-color: #6B7AFF;
+  height: 600px;
+  width:40%;
+    float: right;
+}
+footer{
+  background-color: #545EB3;
+  height: 200px;
+  clear: both;
+}
