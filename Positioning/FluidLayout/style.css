@@ -42,3 +42,14 @@ div{
     width: 98%;
   }
 }
+
+p{
+  background-color: #577eb8;
+  width: 50%;
+  margin: 1% auto;
+}
+
+p:hover{
+  background-color: #11d73d;
+  padding: 0.5%;
+}
