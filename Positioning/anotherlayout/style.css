@@ -1,0 +1,65 @@
+header{
+  height: 200px;
+  background-color: #6F82B3;
+}
+
+section{
+  width: 400px;
+  height: 600px;
+  background-color: #85FF9F;
+  position: relative;
+  float: left;
+}
+
+aside{
+  width: 200px;
+  height: 600px;
+  background-color: #91B1FF;
+  float: right;
+}
+
+footer{
+  height: 200px;
+  background-color: #B3A04B;
+  clear: both;
+}
+
+.first{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  right: 20px;
+}
+
+.second{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 40px;
+  right: 50px;
+}
+
+.third{
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  position: relative;
+  top: 15px;
+  left: 20px;
+}
+
+.fourth{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  position: absolute;
+  bottom: 0px;
+}
+
+.mainbox{
+  width: 600px;
+  height: 100vh;
+  margin: 0 auto;
+}
