@@ -15,18 +15,33 @@ h1{
 p{
   font-family: 'Raleway', sans-serif;
 }
-body{
+/*body{
   background-image: linear-gradient(
     to top,
     yellow 30%,
     blue
     );
     height: 100vh;
-}
+}*/
 
 body{
 
   background: #8360c3;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #2ebf91, #8360c3);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/*section{
+  background-image: url('lama.jpg');
+  background-repeat: repeat-y;
+  background-position: center center;
+  height: 300px;
+  width: 500px;
+  background-size: cover;
+}*/
+
+section{
+  height: 300px;
+  width: 500px;
+  background: red url('lama.jpg') no-repeat center center;
 }
