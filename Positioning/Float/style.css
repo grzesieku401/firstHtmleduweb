@@ -1,0 +1,16 @@
+body{
+  font-family: 'Arial', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+p{
+  background-color: #eec9a7 ;
+  padding: 20px;
+
+}
+
+img{
+  float: left;
+  margin-right: 30px;
+}
