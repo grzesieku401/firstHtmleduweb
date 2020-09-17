@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  background-color: lightgray;
+  height: 200px;
+  float: left;
+  margin: 1%;
+}
+
+.first div{
+  width: 98%;
+}
+.second div{
+  width: 48%;
+}
+.third div{
+  width: 31.333333%;
+}
+
+@media all and (max-width: 500px) {
+  div{
+    background-color: pink;
+  }
+  .second div{
+    width: 98%;
+    /*visibility:hidden;*/
+    display: none;
+  }
+  .third div{
+    width: 98%;
+  }
+}
+
+@media all and (min-width: 501px) and (max-width: 800px){
+  div{
+    background-color: blue;
+  }
+  .third div{
+    width: 98%;
+  }
+}
