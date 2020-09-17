@@ -1,0 +1,35 @@
+div{
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+}
+
+.first{
+  background-color: red;
+  position: relative;
+  top: 70px;
+  left: 70px;
+  z-index: 50;
+}
+
+.second{
+  background-color: green;
+  position: absolute;
+  left: 50px;
+  top: 1020px;
+}
+
+.child{
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+}
+
+.third{
+  background-color: blue;
+  position: fixed;
+  top: 300px;
+}
